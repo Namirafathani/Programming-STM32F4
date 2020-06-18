@@ -7,7 +7,7 @@ But actually the RTC not display Date and Time accurately. In this program i hav
 
 This is the wiring
 
- LCD to STM32F407VG
+# LCD to STM32F407VG
 
 VSS --> GND
 VDD --> Vcc
@@ -22,7 +22,7 @@ D7  --> PE2 (pin lainnya dapat digunakan untuk I/O pin)
 A   --> Resistor --> Vcc
 K   --> GND
 
- DS1307 to STM32F4
+# DS1307 to STM32F4
 
 Vcc --> Vcc
 GND --> GND
