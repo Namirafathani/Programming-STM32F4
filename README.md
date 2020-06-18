@@ -1,7 +1,8 @@
 # Programming-STM32F4
 Programming STM32F407VG with LCD and displaying RTC DS1307. 
 
-
+tes
+tes
 
 But actually the RTC not display Date and Time accurately. In this program i have already try only display date or time.
 
